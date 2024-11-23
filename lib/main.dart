@@ -18,6 +18,7 @@ scaffoldBackgroundColor: Colors.blueGrey
       ),
       debugShowCheckedModeBanner: false,
       home:  const MazePage()
+      
     );
   }
 }
